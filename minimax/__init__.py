@@ -1,0 +1,1 @@
+# __init__ will make minimax a package so we can import stuff directly from minimax folder
